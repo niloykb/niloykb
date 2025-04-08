@@ -13,10 +13,6 @@
 
 ---
 
-Let me know if you want to make it more fun, professional, or add emojis/icons to the tech terms!
-
----
-
 ### 🛠️ Tech Stack
 ```ts
 Frontend:    Angular • TypeScript • HTML • CSS • Bootstrap • TailwindCSS 
