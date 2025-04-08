@@ -15,29 +15,27 @@
 
 ### 🛠️ Tech Stack
 ```ts
-Frontend:    Angular • TypeScript • HTML • CSS • Bootstrap • TailwindCSS 
-Backend:     Laravel • PHP • MySQL • REST APIs • NodeJS
-Other:       Git • Linux (Fedora) • VS Code • Postman
+Frontend:    Angular • TypeScript • JavaScript • Semantic HTML • CSS • SCSS • Bootstrap • TailwindCSS 
+Backend:     Laravel • PHP • MySQL • SQL • REST APIs • NodeJS • Express
+Other:       Git • Github • Gitlab • Linux (Fedora) • VS Code • Postman
 ```
 
 ---
 
 ### 📈 GitHub Stats
 
-![Niloy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niloyvu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloyvu&layout=compact&theme=radical)
+![Niloy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niloykb&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloykb&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/niloykb)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niloybarmon.dev@email.com)
 
 ---
 
 ### 💡 Fun Facts
 - 🧃 Nickname: **Antu**
 - 🌐 I speak **Bengali**, **English**, **Hindi**, and learning **German**
----
 
-Let me know if you want a version with icons or badges, or if you’d like help customizing GitHub widgets or animations (like Snake contributions or WakaTime stats)!
